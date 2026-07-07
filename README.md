@@ -106,7 +106,7 @@ npm run build
 npm run preview
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+Test it here!: https://7xlhw8im7tdvxatstseakdpm5.nativelyai.app
 
 ### First Steps
 
