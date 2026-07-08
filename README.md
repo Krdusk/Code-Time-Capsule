@@ -143,7 +143,7 @@ The production build is a static site served from `dist/`. Deploy to any static 
 
 ## AMD Integration
 
-Code Time Capsule is optimised to run on AMD hardware with ROCm support. The application’s ability to process large repository histories is enhanced by AMD GPUs with massive memory capacity, enabling rapid timeline generation and AI inference.
+Code Time Capsule is optimised to run on AMD hardware with ROCm support. The application’s ability to process large repository histories is enhanced by AMD GPUs with massive memory capacity, enabling rapid timeline generation and AI inference. AMD Developer Cloud (AMD Instinct M1300X GPU) via NativelyAl platform. ROCm software stack enabled rapid Al inference.
 
 ---
 
